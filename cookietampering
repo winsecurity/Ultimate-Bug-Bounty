@@ -1,0 +1,6 @@
+import requests
+
+
+headers = {
+	"User-Agent":"NzU3MzY1NzIzQTY4NzQ2Mjc1NzM2NTcyM0I3MjZGNkM2NTNBNzM3NTcwNjU3Mjc1NzM2NTcyM0I3NDY5NkQ2NTNBMzEzNjMzMzMzMzMyMzYzNTM4Mzk="
+}

